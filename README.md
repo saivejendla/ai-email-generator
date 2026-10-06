@@ -9,6 +9,13 @@ The application supports two main workflows:
 
 The application is built with Python, Streamlit, and the Google Gemini API.
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+**[Open AI Email Generator](https://ai-email-generator-xjsyhcgo7gz3kvaaxrzrby.streamlit.app/
+)**
+
 ---
 
 ## Features
